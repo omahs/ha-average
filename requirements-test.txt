@@ -1,5 +1,5 @@
 -r requirements.txt
-flake8~=5.0
+flake8~=6.1
 flake8-docstrings~=1.6
 mypy==1.0.0
 pylint~=2.15
